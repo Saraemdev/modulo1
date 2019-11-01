@@ -4422,5 +4422,5 @@ readers do not read off random characters that represent icons */
   font-family: 'Font Awesome 5 Free';
   font-weight: 900; }
 
-body{margin:0;padding:30px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";background-color:#f3fdff;color:#000078}.uoc-logo{display:block;margin-bottom:20px;max-width:300px;height:auto}.uoc-title{font-family:Georgia,"Times New Roman",serif;font-size:36px;font-weight:700;color:#000078}.fas{color:#fd002a}
+body{margin:0;padding:30px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";background-color:#f3fdff;color:#000078}.uoc-logo{display:block;margin-bottom:20px;max-width:300px;height:auto}.uoc-title{font-family:Georgia,"Times New Roman",serif;font-size:36px;font-weight:700;color:#000078}.fab,.fas{color:#fd002a}
 /*# sourceMappingURL=/main.3a106136.css.map */
